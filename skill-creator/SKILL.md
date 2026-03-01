@@ -1,6 +1,6 @@
 ---
 name: skill-creator
-description: 创建、修改、测试 skill。触发词：创建 skill、优化 skill、运行 eval。
+description: 创建、修改、测试 skill。
 ---
 
 # Skill Creator

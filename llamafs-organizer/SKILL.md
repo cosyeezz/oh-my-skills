@@ -1,6 +1,6 @@
 ---
 name: llamafs-organizer
-description: AI 智能文件整理工具。触发词：整理文件、llamafs、清理文件夹。
+description: 智能文件整理工具。
 ---
 
 # LlamaFS 智能文件整理工具
