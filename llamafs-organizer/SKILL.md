@@ -1,6 +1,6 @@
 ---
 name: llamafs-organizer
-description: AI 智能文件整理工具。当用户提到"整理文件"、"清理下载文件夹"、"整理桌面"、"文件太乱了"、"organize files"、"clean up downloads"、"整理混乱的文件夹"、"启动文件整理服务"、"启动 llamafs"、"同步 llamafs"、"更新 llamafs"、"llamafs 状态"时必须触发此技能。这是一个完整的文件整理解决方案，所有操作都通过此 skill 完成。
+description: AI 智能文件整理工具。触发词：整理文件、llamafs、清理文件夹。
 ---
 
 # LlamaFS 智能文件整理工具
